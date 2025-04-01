@@ -13,10 +13,9 @@ The core architecture consists of:
 
 The training loop runs for 20 epochs, where at each step it applies random noise to images, asks the model to predict that noise, and uses L1 loss to optimize. The model generates new images by starting from pure noise and iteratively denoising through all timesteps. We include visualizations to show both the forward noising process and the reverse generation process, allowing us to monitor model's progress throughout training.
 
-### Original and Reconstructed images
+### Datset Image
 
 <img src="./assets/Diffusion Model Notebook.png">
-<img src="./assets/Diffusion Model Notebook (1).png">
 
 ## Results
 
