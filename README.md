@@ -1,4 +1,4 @@
-# Diffusion-Model-4-Quark-Gluon-Events
+# Diffusion-Model-for-Quark-Gluon-Events
 
 ## Summary
 
